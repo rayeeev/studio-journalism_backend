@@ -31,8 +31,8 @@ export const postType = defineType({
       options: {
         list: [
           {title: 'Campus News', value: 'campus_news'},
-          {title: 'Student Life', value: 'student_life'},
-          {title: 'Opinion', value: 'opinion'},
+          {title: 'Student Stories', value: 'student_stories'},
+          {title: 'Short Stories', value: 'short_stories'},
           {title: 'Sports', value: 'sports'},
           {title: 'Arts & Culture', value: 'arts_culture'},
         ],
